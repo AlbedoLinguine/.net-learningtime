@@ -25,7 +25,6 @@ C:\Users\yogev\Documents\weirdwebsite\obj\Debug\net8.0\staticwebassets\msbuild.b
 C:\Users\yogev\Documents\weirdwebsite\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.weirdwebsite.props
 C:\Users\yogev\Documents\weirdwebsite\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.weirdwebsite.props
 C:\Users\yogev\Documents\weirdwebsite\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\yogev\Documents\weirdwebsite\obj\Debug\net8.0\scopedcss\aspnetcoreapp\Pages\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\yogev\Documents\weirdwebsite\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\yogev\Documents\weirdwebsite\obj\Debug\net8.0\scopedcss\bundle\weirdwebsite.styles.css
 C:\Users\yogev\Documents\weirdwebsite\obj\Debug\net8.0\scopedcss\projectbundle\weirdwebsite.bundle.scp.css
@@ -34,3 +33,4 @@ C:\Users\yogev\Documents\weirdwebsite\obj\Debug\net8.0\refint\weirdwebsite.dll
 C:\Users\yogev\Documents\weirdwebsite\obj\Debug\net8.0\weirdwebsite.pdb
 C:\Users\yogev\Documents\weirdwebsite\obj\Debug\net8.0\weirdwebsite.genruntimeconfig.cache
 C:\Users\yogev\Documents\weirdwebsite\obj\Debug\net8.0\ref\weirdwebsite.dll
+C:\Users\yogev\Documents\weirdwebsite\obj\Debug\net8.0\weirdwebsite.sourcelink.json

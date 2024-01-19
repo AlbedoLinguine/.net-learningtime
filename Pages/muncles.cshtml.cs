@@ -1,13 +1,13 @@
-﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace aspnetcoreapp.Pages;
+namespace weirdwebsite.Pages;
 
-public class PrivacyModel : PageModel
+public class MunclesModel : PageModel
 {
     private readonly ILogger<PrivacyModel> _logger;
 
-    public PrivacyModel(ILogger<PrivacyModel> logger)
+    public MunclesModel(ILogger<PrivacyModel> logger)
     {
         _logger = logger;
     }
@@ -16,4 +16,3 @@ public class PrivacyModel : PageModel
     {
     }
 }
-
