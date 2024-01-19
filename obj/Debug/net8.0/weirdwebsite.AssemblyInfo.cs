@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("weirdwebsite")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4c5e3458d85961194197790f6018fcca6400830")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9f6dd4a247ddf2cb6efb96326d0c4f16ea752c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("weirdwebsite")]
 [assembly: System.Reflection.AssemblyTitleAttribute("weirdwebsite")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
