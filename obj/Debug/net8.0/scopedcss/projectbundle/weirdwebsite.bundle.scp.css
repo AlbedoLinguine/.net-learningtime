@@ -13,26 +13,26 @@ a[b-g1khj0ca16] {
 }
 
 .btn-primary[b-g1khj0ca16] {
-  color: #fff;
+  color: #1b6ec2;
   background-color: #1b6ec2;
   border-color: #1861ac;
 }
 
 .nav-pills .nav-link.active[b-g1khj0ca16], .nav-pills .show > .nav-link[b-g1khj0ca16] {
-  color: #fff;
+  color: #1b6ec2;
   background-color: #1b6ec2;
   border-color: #1861ac;
 }
 
 .border-top[b-g1khj0ca16] {
-  border-top: 1px solid #e5e5e5;
+  border-top: 1px solid #1e00ff;
 }
 .border-bottom[b-g1khj0ca16] {
-  border-bottom: 1px solid #e5e5e5;
+  border-bottom: 1px solid #1e00ff;
 }
 
 .box-shadow[b-g1khj0ca16] {
-  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+  box-shadow: 0 .25rem .75rem rgb(40, 11, 255);
 }
 
 button.accept-policy[b-g1khj0ca16] {
